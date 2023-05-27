@@ -1,0 +1,114 @@
+[
+    {
+      "id": "01",
+      "companyLogo": "./Logo/google.png",
+      "jobName": "Web Developer",
+      "companyName": "Google",
+      "isRemote": true,
+      "isFullTime": true,
+      "jobLocation": "San Francisco, CA",
+      "salaryRange": "$80,000 - $100,000",
+      "jobDetails": {
+        "jobDescription": "We are looking for a web developer to join our team. You will be responsible for developing and maintaining websites for our clients. You should have experience with HTML, CSS, JavaScript, and other web development technologies.",
+        "jobResponsibility": "Develop and maintain websites for clients. Collaborate with designers and other developers to create visually appealing and user-friendly websites. Ensure that websites are optimized for speed and performance.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field. Strong understanding of web development technologies.",
+        "experiences": "Minimum of 3 years of experience in web development. Experience with HTML, CSS, JavaScript, and other web development technologies.",
+        "phone": "+1-123-456-7890",
+        "email": "webdev@google.com"
+      }
+    },
+    {
+        "id": "02",
+        "companyLogo": "./Logo/netflix-4.png",
+        "jobName": "Marketing Manager",
+        "companyName": "Netflix",
+        "isRemote": false,
+        "isFullTime": true,
+        "jobLocation": "New York, NY",
+        "salaryRange": "$90,000 - $120,000",
+        "jobDetails": {
+          "jobDescription": "We are looking for a marketing manager to lead our marketing team and create successful marketing campaigns for our products.",
+          "jobResponsibility": "Developing and executing strategic marketing plans, managing the marketing budget, coordinating with cross-functional teams, analyzing market trends, and measuring marketing campaign performance.",
+          "educationalRequirements": "Bachelor's or Master's degree in Marketing, Communications, or a related field.",
+          "experiences": "At least 5 years of experience in a marketing management role, with a proven track record of successful marketing campaigns.",
+          "phone": "123-456-7890",
+          "email": "marketingmanager@netflix.com"
+        }
+      },
+      {
+        "id": "03",
+        "companyLogo": "./Logo/tesla-9.png",
+        "jobName": "Product Designer",
+        "companyName": "Tesla",
+        "isRemote": true,
+        "isFullTime": true,
+        "jobLocation": "Seattle, WA",
+        "salaryRange": "$75,000 - $90,000",
+        "jobDetails": {
+          "jobDescription": "We are looking for a talented product designer to join our team and help us create innovative and user-friendly products.",
+          "jobResponsibility": "Designing user interfaces, creating wireframes and prototypes, collaborating with cross-functional teams, conducting user research, and iterating designs based on feedback.",
+          "educationalRequirements": "Bachelor's or Master's degree in Product Design, Industrial Design, or a related field.",
+          "experiences": "At least 3 years of experience in product design, with a strong portfolio showcasing your design skills and process.",
+          "phone": "123-456-7890",
+          "email": "productdesigner@tesla.com"
+        }
+      }
+      ,
+      {
+        "id": "04",
+        "companyLogo": "./Logo/google.png",
+        "jobName": "Sales Representative",
+        "companyName": "Google",
+        "isRemote": false,
+        "isFullTime": true,
+        "jobLocation": "Chicago, IL",
+        "salaryRange": "$50,000 - $70,000",
+        "jobDetails": {
+          "jobDescription": "We are seeking a sales representative to join our team and help drive sales of our products and services.",
+          "jobResponsibility": "Identifying potential clients, conducting sales presentations, negotiating and closing deals, developing and maintaining customer relationships, and achieving sales targets.",
+          "educationalRequirements": "Bachelor's degree in Business, Marketing, or a related field.",
+          "experiences": "At least 2 years of experience in sales, preferably in technology or related industry.",
+          "phone": "123-456-7890",
+          "email": "salesrep@google.com"
+        }
+      }
+      ,
+      {
+        "id": "05",
+        "companyLogo": "./Logo/netflix-4.png",
+        "jobName": "Software Engineer",
+        "companyName": "Netflix",
+        "isRemote": false,
+        "isFullTime": true,
+        "jobLocation": "Austin, TX",
+        "salaryRange": "$100,000 - $130,000",
+        "jobDetails": {
+          "jobDescription": "We are looking for a talented software engineer to join our team and help us build innovative and scalable software solutions.",
+          "jobResponsibility": "Designing, developing, testing, and maintaining software applications, collaborating with cross-functional teams, troubleshooting issues, and continuously improving software quality.",
+          "educationalRequirements": "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.",
+          "experiences": "At least 5 years of experience in software engineering, with strong proficiency in one or more programming languages and experience with software development methodologies and tools.",
+          "phone": "123-456-7890",
+          "email": "softwareengineer@netflix.com"
+        }
+      }
+      ,
+      {
+        "id": "06",
+        "companyLogo": "./Logo/tesla-9.png",
+        "jobName": "Graphic Designer",
+        "companyName": "Tesla",
+        "isRemote": true,
+        "isFullTime": false,
+        "jobLocation": "Los Angeles, CA",
+        "salaryRange": "$50,000 - $60,000",
+        "jobDetails": {
+          "jobDescription": "We are seeking a talented graphic designer to join our creative team and help us bring our vision to life.",
+          "jobResponsibility": "Designing and producing high-quality visuals for marketing campaigns, creating visual content for websites and social media, collaborating with cross-functional teams, and ensuring consistent brand messaging.",
+          "educationalRequirements": "Bachelor's or Master's degree in Graphic Design, Fine Arts, or a related field.",
+          "experiences": "At least 2 years of experience in graphic design, with a strong portfolio showcasing a range of design skills and proficiency in design software and tools.",
+          "phone": "123-456-7890",
+          "email": "graphicdesigner@tesla.com"
+        }
+      }      
+  ]
+  

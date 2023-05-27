@@ -1,0 +1,26 @@
+* github career-hub --> done
+* create private repo --> done
+* see figma: --> done
+ 1. don't give name CareerHub --> done
+ 2. create custom data for job category list --> done
+ 3. create custom data for Featured Jobs minimum 6 data. --> done
+ 4. View Details button will redirect to another job details page --> {data will have these info too} --> done
+ 5. onClick apply now will save the job info into local storage --> we can use fakeDb's codes --> done
+ 6. on nav add home links --> done 
+ 7. applied jobs route will show jobs saved in local storage --> done
+ 8. statistics route will show assignments mark's chart [without line chart and bar chart], have to xaxis and yaxis. pie chart alada hishab.
+ 9. 404 error page
+
+ bonus:
+    1. blog routes will show 4 question's answers. --> done
+    2. main page mobile + desktop responsive. --> done
+    3. minimum 10 git commit. --> done
+    4. readme file will have bullet point lists of website's feature and live site link -->
+    5. no 404 error for reload in netlify/deploy 
+    6. first set 4 data in state, onClick See All Jobs --> set all data in state. --> done
+    7. Filter By will have two buttons --> show onside and show remote job,
+        1st button will set onside in state --> done
+        2nd button will set remote job in state --> done
+    
+    optional:
+    footer, 
